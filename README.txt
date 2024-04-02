@@ -6,7 +6,7 @@ Instalación
 Clona el repositorio desde Git:
 bash
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Juanmlxs/proyecto_final.git
 Accede al directorio del proyecto:
 bash
 
